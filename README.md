@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h2 style="display: flex; justify-content: space-between; align-items: baseline;">
-  <span>👨‍💻 About Me</span>
-  <span style="font-size: 16px; font-weight: normal;"><sub><small>v1.0.1</small></sub></span>
-</h2>
+<div style="display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1px solid rgba(128, 128, 128, 0.3); padding-bottom: 8px; margin-bottom: 16px;">
+  <h2 style="margin: 0; padding: 0; border: none;">👨‍💻 About Me</h2>
+  <small>v1.0.1</small>
+</div>
 
 I'm a Full-Stack & Mobile Developer based in Thailand 🇹🇭, building websites, web apps, and cross-platform mobile apps — mainly focused on frontend and mobile, with backend when the project needs it.
 
@@ -53,7 +53,7 @@ npx @p_tipso/agentive@latest
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TiPS0&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 ## 🔗 Links
