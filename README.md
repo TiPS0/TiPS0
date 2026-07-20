@@ -4,10 +4,9 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1px solid rgba(128, 128, 128, 0.3); padding-bottom: 8px; margin-bottom: 16px;">
-  <h2 style="margin: 0; padding: 0; border: none;">👨‍💻 About Me</h2>
-  <small>v1.0.1</small>
-</div>
+<img src="./profile/version.svg" align="right" alt="v1.0.1" />
+
+## 👨‍💻 About Me
 
 I'm a Full-Stack & Mobile Developer based in Thailand 🇹🇭, building websites, web apps, and cross-platform mobile apps — mainly focused on frontend and mobile, with backend when the project needs it.
 
