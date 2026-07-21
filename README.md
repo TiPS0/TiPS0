@@ -52,7 +52,7 @@ npx @p_tipso/agentive@latest
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TiPS0/TiPS0/streak-data/streak.svg" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/TiPS0/TiPS0/streak-data/streak.svg?v=1" alt="GitHub Streak" />
 </p>
 
 ## 🔗 Links
