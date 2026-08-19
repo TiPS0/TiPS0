@@ -28,7 +28,7 @@ I'm a Full-Stack & Mobile Developer based in Thailand 🇹🇭, building website
 
 **Backend & Infrastructure**
 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,python,postgres,redis,mongodb,supabase,firebase,docker,nginx,cloudflare&perline=8&theme=dark)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,python,go,postgres,redis,mongodb,supabase,firebase,docker,nginx,cloudflare&perline=8&theme=dark)](https://skillicons.dev)
 
 **Tools & Workflow**
 
