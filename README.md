@@ -22,9 +22,9 @@ I'm a Full-Stack & Mobile Developer based in Thailand 🇹🇭, building website
 
 [![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,nuxtjs,ts,js,html,css,tailwind&perline=8&theme=dark)](https://skillicons.dev)
 
-**Mobile**
+**Mobile & Desktop**
 
-[![Mobile Skills](https://skillicons.dev/icons?i=react,swift,androidstudio,xcode&perline=8&theme=dark)](https://skillicons.dev)
+[![Mobile & Desktop Skills](https://skillicons.dev/icons?i=react,swift,androidstudio,electron,tauri&perline=8&theme=dark)](https://skillicons.dev)
 
 **Backend & Infrastructure**
 
